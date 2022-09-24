@@ -1,0 +1,14 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "class exercise",
+  "main": "odd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iffah izzati",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
